@@ -1,0 +1,65 @@
+body {
+    background-image: url("./wp4442379-class-room-hd-wallpapers.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.title { 
+    font-family: Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+.container {
+    
+    position: relative;
+    top: 25%;
+    background: #7d677de8;
+    border: 3px solid #686f8e;
+    border-radius: 15px;
+    height: auto;
+    max-width: 60%;
+    margin: auto;
+    padding: 2px;
+   
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+
+#increment-btn {
+    background:  #215ba8;
+}
+
+#save-btn {
+    background: #215ba8;
+}
+
+#refresh-btn {
+    background: #215ba8;
+}
+#save-el {
+    font-weight: bold;
+}
+
